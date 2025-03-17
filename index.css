@@ -380,8 +380,16 @@ ul.steps li {
         width: 100%; 
     }
 
+    #left-header a{
+        display: none;
+    }
+    #login-link{
+
+        display: none;
+    }
+
     main{
-        margin-top: 15rem;
+        margin-top: 7rem;
     }
 
     header{
@@ -408,8 +416,16 @@ ul.steps li {
         width: 50%; 
     }
 
+    #left-header a{
+        display: none;
+    }
+    #login-link{
+
+        display: none;
+    }
+
     main{
-        margin-top: 15rem;
+        margin-top: 7rem;
     }
 
     header{
@@ -439,6 +455,13 @@ ul.steps li {
         margin-top: 5rem;
     }
 
+    #left-header a{
+        display: inline
+    }
+    #login-link{
+
+        display: inline
+    }
     header{
         flex-flow: row wrap;
     }
