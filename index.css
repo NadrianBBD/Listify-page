@@ -273,6 +273,10 @@ header{
     font-size: 20pt;
 }
 
+#signup-heading{
+    font-size: 22pt;
+}
+
 .signup-btn:hover{
     background-color: var(--download-background-hover);
 }
