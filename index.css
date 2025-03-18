@@ -190,7 +190,7 @@ text-decoration: none;
 }
 
 /* Header CSS */
-header{
+header nav{
     display: flex;
     position: fixed;
     top: 0;     
