@@ -211,6 +211,9 @@ header{
     margin: 1rem 2rem;
     list-style: none;
 }
+#web-logo{
+    width: 13rem;
+}
 
 #left-header a{
     color: var(--header-left-font-color);
