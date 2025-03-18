@@ -310,7 +310,7 @@ header nav{
     color: var(--how-it-works-header-color); 
 }
 
-ul.steps {
+ol.steps {
     list-style-type: none;
     padding: 0;
     margin: 0;
@@ -322,7 +322,7 @@ ul.steps {
     
 }
 
-ul.steps li {
+ol.steps li {
     display: flex;
     align-items: center;
     width: 80%; 
